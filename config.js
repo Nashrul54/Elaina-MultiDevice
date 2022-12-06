@@ -1,5 +1,5 @@
-// S C R I P T  O R I  B Y  Bochilgaming 🔭
-// Ditulis Ulang Oleh ImYanXiao
+// S C R I P T  O R I  B Y  Naserul-Bot 🔭
+// Ditulis Ulang Oleh Nashrullah
 // Credits, jangan dihapus atau diubah!
 
 // - - THANKS TO - -
@@ -61,13 +61,13 @@ global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada 
 /*============== NOMOR ==============*/
 global.nomorbot = '6281231079387' //Nomor Bot
 global.nomorown = '6285736178354' //Nomor Owner
-global.namebot = 'Elaina BOT' //Nama Bot
-global.nameown = '𝓧𝓲𝓪𝓸 - 𝓨𝓪𝓷' // Nama Owner
+global.namebot = 'Botwa' //Nama Bot
+global.nameown = 'Naserul-Yes' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ 𝚇 𝚒 𝚊 𝚘 - 𝚈𝚊𝚗? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285736178354', '❦ Naserul-Yes? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
