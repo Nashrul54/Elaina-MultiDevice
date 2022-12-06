@@ -4,10 +4,10 @@
 
 // - - THANKS TO - -
 // • Allah SWT
-// • Nurutomo
-// • Bochilgaming
-// • Rominaru
-// • Kannachann
+// • Nabi Muhammad Saw
+// • Naserul
+// • Bagus
+// • Zakariya
 // • FahriAdison
 // • The.Sad.Boy01
 // • Rlxfly
@@ -54,20 +54,20 @@ global.sdc = '-' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '085172149757' //Nomor Danamu
+global.ppulsa = '085172149757' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281231079387' //Nomor Bot
-global.nomorown = '6285736178354' //Nomor Owner
+global.nomorbot = '6283107995316' //Nomor Bot
+global.nomorown = '6285172149757' //Nomor Owner
 global.namebot = 'Botwa' //Nama Bot
 global.nameown = 'Naserul-Yes' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285736178354', '❦ Naserul-Yes? 🎐', true] //Ganti jd nomormu sama Namamu
+  ['6285172149757', '❦ Naserul-Yes? 🎐', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
